@@ -46,17 +46,24 @@ Tech stacks I am using mostly are
 
 ### 🧰 Frameworks and libraries
 
-<p>
-    <a href="#"><img alt="React" src="https://img.shields.io/badge/React-20232a.svg?logo=react&logoColor=%2361DAFB"></a>
-    <a href="#"><img alt="React Native" src="https://img.shields.io/badge/react_native-%2320232a.svg?logo=react&logoColor=%2361DAFB"></a>
-    <a href="#"><img alt="Angular" src="https://img.shields.io/badge/angular-%23DD0031.svg?&logo=angular&logoColor=white"></a>
-    <a href="#"><img alt="Flutter" src="https://img.shields.io/badge/Flutter-%2302569B.svg?logoColor=white"></a>
-    <a href="#"><img alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-7952B3.svg?logo=bootstrap&logoColor=white"></a>
-    <a href="#"><img alt="Express.js" src="https://img.shields.io/badge/Express.js-404d59.svg?logo=express&logoColor=white"></a>
-    <a href="#"><img alt="Wordpress" src="https://img.shields.io/badge/Wordpress-21759B?logo=wordpress&logoColor=white"></a>
-    <a href="#"><img alt="Flask" src="https://img.shields.io/badge/Flask-000000.svg?logo=flask&logoColor=white"></a>
-    <a href="#"><img alt="WPF (.Net)" src="https://img.shields.io/badge/WPF-5C2D91?logo=.net&logoColor=white"></a>
-</p>
+#### Front-End
+<a href="#"><img alt="React" src="https://img.shields.io/badge/React-20232a.svg?logo=react&logoColor=%2361DAFB"></a>
+<a href="#"><img alt="Angular" src="https://img.shields.io/badge/Angular-%23DD0031.svg?&logo=angular&logoColor=white"></a>
+<a href="#"><img alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-7952B3.svg?logo=bootstrap&logoColor=white"></a>
+
+#### Mobile
+<a href="#"><img alt="React Native" src="https://img.shields.io/badge/React_Native-%2320232a.svg?logo=react&logoColor=%2361DAFB"></a>
+<a href="#"><img alt="Kotlin" src="https://img.shields.io/badge/Kotlin-7F52FF.svg?logo=kotlin&logoColor=white"></a>
+<a href="#"><img alt="Swift" src="https://img.shields.io/badge/Swift-FA7343.svg?logo=swift&logoColor=white"></a>
+<a href="#"><img alt="Flutter" src="https://img.shields.io/badge/Flutter-%2302569B.svg?logoColor=white"></a>
+
+#### Back-End
+<a href="#"><img alt="Express.js" src="https://img.shields.io/badge/Express.js-404d59.svg?logo=express&logoColor=white"></a>
+<a href="#"><img alt="Flask" src="https://img.shields.io/badge/Flask-000000.svg?logo=flask&logoColor=white"></a>
+
+#### CMS & Desktop
+<a href="#"><img alt="Wordpress" src="https://img.shields.io/badge/Wordpress-21759B?logo=wordpress&logoColor=white"></a>
+<a href="#"><img alt="WPF (.Net)" src="https://img.shields.io/badge/WPF-5C2D91?logo=.net&logoColor=white"></a>
 
 ### 🗄️ Databases and cloud hosting
 
