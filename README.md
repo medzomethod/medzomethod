@@ -1,11 +1,11 @@
-## Senior Software Developer 👋!
+## Senior Mobile Engineer 👋!
 
 Welcome to my page!
-I'm a Senior Software Developer
+I'm a Senior iOS/Android mobile engineer with web frontend/backend experience
 
 Tech stacks I am using mostly are
-- Frontend : React.js, Angular, Vue<br/>
-- Mobile App Development: React Native, Flutter, Java, Kotlin, Swift, Objective-C
+- Mobile App Development: React Native, Flutter, Java, Kotlin, Swift, Objective-C<br/>
+- Frontend : React.js, Angular, Vue
 - Backend: Node, Java, PHP, Python, .NET, Ruby
 - CMS: Shopify, WordPress
 
